@@ -1,11 +1,21 @@
-**Использование**
-После запуска бота на вашем сервере Discord, вы можете использовать следующие команды:
+# Bot Project Name
 
-Дополнительные инструкции
-Настройка категории для жалоб: Замените значение переменной category_id в файле bot.py на ID категории вашего сервера, в которой будут создаваться каналы для жалоб.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your_username/your_repo/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+[![Disnake Version](https://img.shields.io/badge/disnake-latest-blue)](https://github.com/eunwoo1104/disnake)
 
-Вклад
-Если вы хотите внести вклад в проект, вы можете создать запрос на изменение (pull request) или сообщить об ошибках через раздел "Issues" на GitHub.
+Short project description or overview.
 
-Лицензия
-Этот проект лицензируется в соответствии с лицензией MIT. Подробности смотрите в файле LICENSE.
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Commands](#commands)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your_username/your_repo.git
