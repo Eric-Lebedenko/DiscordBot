@@ -19,3 +19,6 @@ Short project description or overview.
 1. Clone the repository:
    ```sh
    git clone https://github.com/your_username/your_repo.git
+
+## Usage
+   Join My [Discord Server](https://discord.gg/VWvtfPhS8K) to see the bot in action and test its features.
